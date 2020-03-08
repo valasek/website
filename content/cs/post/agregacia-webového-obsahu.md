@@ -68,9 +68,15 @@ Následne pri popise tvorby RSS súboru budem používať iba RSS 2.0 formát, a
 
 Na web stránkach sa odkazy na RSS feedy dajú nájsť vo forme nasledujúcich ikoniek:
 
-[![](http://valasek.files.wordpress.com/2012/05/rss-xml.gif "rss-xml")](http://valasek.files.wordpress.com/2012/05/rss-xml.gif) [![](http://valasek.files.wordpress.com/2012/05/rss-validatom.gif "rss-validatom")](http://valasek.files.wordpress.com/2012/05/rss-validatom.gif)[ ![](http://valasek.files.wordpress.com/2012/05/rss-valid.gif "rss-valid")](http://valasek.files.wordpress.com/2012/05/rss-valid.gif)[ ![](http://valasek.files.wordpress.com/2012/05/rss-square.gif "rss-square")](http://valasek.files.wordpress.com/2012/05/rss-square.gif)[ ![](http://valasek.files.wordpress.com/2012/05/rss-rss.png "rss-rss")](http://valasek.files.wordpress.com/2012/05/rss-rss.png)[ ![](http://valasek.files.wordpress.com/2012/05/rss-livemark.png "rss-livemark")](http://valasek.files.wordpress.com/2012/05/rss-livemark.png)[ ![](http://valasek.files.wordpress.com/2012/05/rss-atomfeed.png "rss-atomfeed")](http://valasek.files.wordpress.com/2012/05/rss-atomfeed.png)
+![](/img/rss-xml.gif "rss-xml")
+![](/img/rss-validatom.gif "rss-validatom")
+![](/img/rss-valid.gif "rss-valid")
+![](/img/rss-square.gif "rss-square")
+![](/img/rss-rss.png "rss-rss")
+![](/img/rss-livemark.png "rss-livemark")
+![](/img/rss-atomfeed.png "rss-atomfeed")
 
-prípadne vo forme odkazu s názvom RSS, RDF alebo Atom. Programov na zobrazovanie RSS existuje nepreberné množstvo. Či už priamo vo webových prehliadačoch, ako napríklad vo Firefoxe zabudované prehliadanie: [![](http://valasek.files.wordpress.com/2012/05/rss-firefox.png "rss-firefox")](http://valasek.files.wordpress.com/2012/05/rss-firefox.png) alebo pomocou rôznych pluginov prípadne samostatných konzolových alebo grafických programov. Dobrú prácu odvádzajú: na MS Windowse [RssReader](http://www.rssreader.com/), pre GNOME [Liferea](http://liferea.sourceforge.net/), [Straw](http://www.nongnu.org/straw/) alebo prenositeľný v Jave napísaný [RssOwl](http://www.rssowl.org/). Pokiaľ chcete vyčerpávajúci zoznam programov na zobrazovanie RSS, tak navštívte [Open directory](http://directory.google.com/Top/Reference/Libraries/Library_and_Information_Science/Technical_Services/Cataloguing/Metadata/RDF/Applications/RSS/News_Readers/).
+prípadne vo forme odkazu s názvom RSS, RDF alebo Atom. Programov na zobrazovanie RSS existuje nepreberné množstvo. Či už priamo vo webových prehliadačoch, ako napríklad vo Firefoxe zabudované prehliadanie: ![](/img/rss-firefox.png "rss-firefox") alebo pomocou rôznych pluginov prípadne samostatných konzolových alebo grafických programov. Dobrú prácu odvádzajú: na MS Windowse [RssReader](http://www.rssreader.com/), pre GNOME [Liferea](http://liferea.sourceforge.net/), [Straw](http://www.nongnu.org/straw/) alebo prenositeľný v Jave napísaný [RssOwl](http://www.rssowl.org/). Pokiaľ chcete vyčerpávajúci zoznam programov na zobrazovanie RSS, tak navštívte [Open directory](http://directory.google.com/Top/Reference/Libraries/Library_and_Information_Science/Technical_Services/Cataloguing/Metadata/RDF/Applications/RSS/News_Readers/).
 
 ## Pridanie titulkov z iného webu na HTML stránku prostredníctvom RSS
 
