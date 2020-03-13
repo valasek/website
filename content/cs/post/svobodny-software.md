@@ -50,7 +50,7 @@ Na tejto stránke je zosumarizovaná moja pstaršia ráca na slobodnom softvéri
 
 #### Prednášky
 
-[Operačné systémy](/img/operacne_systemy.pdf), <abbr title="Ekonomická Univerzita">EU</abbr>, Bratislava (10\. 2003). Podklady prednášky, ktorú som odprednášal v Bratislave na Ekonomickej Univerzite, Fakulte Hospodárskej Informatiky.
+[Operačné systémy](/docs/operacne_systemy.pdf), <abbr title="Ekonomická Univerzita">EU</abbr>, Bratislava (10\. 2003). Podklady prednášky, ktorú som odprednášal v Bratislave na Ekonomickej Univerzite, Fakulte Hospodárskej Informatiky.
 
 #### Hlásenie chýb
 
