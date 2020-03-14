@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Stanislav Valasek is positive, responsible and energetic IT professional with 15 years of experience in programming, product development and project management for international clients.
+Stanislav Valasek is realistic, responsible and energetic IT professional with 15 years of experience in product development and project management for international clients with a strong technical background.
 
-As an experienced team leader, scrum master, I am skilled in planning, development, and implementation of complex and demanding project strategies, whilst keeping the focus on result achievements.
+As an experienced I am skilled in planning, development, and implementation of complex and demanding projects, whilst keeping the focus on result achievements.
