@@ -69,4 +69,4 @@ user_groups:
 
 Stanislav Valasek is realistic, responsible and energetic IT professional with 15 years of experience in product development and project management for international clients with a strong technical background.
 
-As an experienced I am skilled in planning, development, and implementation of complex and demanding projects, whilst keeping the focus on result achievements.
+I am skilled in planning, development, and implementation of complex and demanding projects, whilst keeping the focus on result achievements.
