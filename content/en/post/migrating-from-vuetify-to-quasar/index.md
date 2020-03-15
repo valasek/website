@@ -33,11 +33,15 @@ Both [Vuetify](https://vuetifyjs.com/) and [Quasar](https://quasar.dev/) are hig
 
 This story began when the decision was made to implement a simple timesheet application. It ended with a stable application that is used daily in production. Quasar is used on the front-end and Golang with PostgreSQL on the back-end.
 
+* * *
+
 # TL / DR
 
 > I was surprised at the ease of migration and the hospitality of the Quasar community. I was able to achieve exactly the same UI and functionality. The visual performance and SEO were improved as well. Hard data is mentioned in the article below.
 
 The migration was from Vuetify 1.5.14 to Quasar 1.0.0-rc.4. [NPM(https://www.npmjs.com/get-npm)] was used as a global and local package manager. There were no changes on the back-end.
+
+* * *
 
 # Back to the story
 
@@ -55,6 +59,8 @@ Once the application was mature and served us well, I played with an idea to imp
 - Quasar looked well-thought out and technically advanced to me.
 - I wanted to learn a new framework which would give me an option to create desktop apps and well as mobile apps.
 - The [Quasar documentation](https://quasar.dev/introduction-to-quasar) was the last differentiator — the content is just amazing. You should check it out!
+
+* * *
 
 # How I switched
 
@@ -94,7 +100,11 @@ Autocomplete
 
 {{< gist valasek 4eb7114ba293678f61686e4ff0a65467 >}}
 
+* * *
+
 > Even if the release version number for Quasar is lower when compared to Vuetify, do not worry, it has more UI components and offers similar or better component maturity.
+
+* * *
 
 # And the real gains?
 
@@ -104,6 +114,8 @@ When I look back, I have to say it was a good decision. As a recap, here is a li
 - Reduced bundle size, compilation time and development server startup time.
 - More components out of the box.
 - Amazing community. One example is that I struggled with entering decimal numbers (I have to admit it was very basic issue, a missing step attribute …), anyway, I asked on the [Quasar Discord chat](https://chat.quasar.dev/) and got an answer. I created an issue [[Docs] — Reference or copy relevant HTML5 element and attributes relevant for Quasar component](https://github.com/quasarframework/quasar/issues/4321) and the same day PR was prepared by a Quasar community member to be merged into master.
+
+* * *
 
 # Improved performance and SEO
 
@@ -140,14 +152,18 @@ Score on the main page with loaded data
 - Vuetify — 24 sec
 - Quasar — 14 sec
 
+* * *
+
 # What about you?
 
 Share in the comments which UI framework you are using and why!
+
+* * *
 
 # Links
 
 - https://quasar.dev
 - https://vuetifyjs.com/en/
-- https://github.com/valasek/timesheet — Quasar
-- https://github.com/valasek/timesheet/tree/vuetify-deprecated — Vuetify
-- http://timesheet.simplesw.net:8080 — demo application
+- https://github.com/valasek/timesheet — Quasar app
+- https://github.com/valasek/timesheet/tree/vuetify-deprecated — Vuetify app
+- [http://timesheet.simplesw.net:8080](http://timesheet.simplesw.net:8080) — Timesheet demo application
