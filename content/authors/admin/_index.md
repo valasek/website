@@ -18,9 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Vedení firem a týmů
-  - Computational Linguistics
-  - Information Retrieval
+  - Vedení lidí
+  - Technologie a vývoj SW
+  - Lezení, feratty
+  - Akvaristika
+
 
 # Education to show in About widget
 education:
