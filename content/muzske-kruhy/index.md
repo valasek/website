@@ -7,9 +7,9 @@ design:
 ---
 
 {{% callout note %}}
-Kdy: každé druhé úterý v měsíci vždy od 18:00
+Kdy: 1x měsíčně od 18:00, den v měsíci je určen dohodou
 
-Kde: Místo bude upřesněno
+Kde: místo bude upřesněno
 
 Téma: je dohodnuta na posledním kruhu
 
