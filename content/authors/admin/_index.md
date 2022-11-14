@@ -32,12 +32,12 @@ education:
     - course: CTO Leadership Foundation
       institution: CTO Academy
       year: 2022
-    - course: Kyvadlo
+    - course: Kyvadlo ako kompas v živote
       institution: Marek Bohunický
-      year: 202O
-    - course: Body Inteligence
+      year: 20219
+    - course: Body Intelligence
       institution: Marek Bohunický
-      year: 2019
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

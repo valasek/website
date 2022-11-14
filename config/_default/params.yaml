@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Stanislav Valášek. This work is licensed under {license}'
+    notice: '© {year} Stanislav Valášek.'
     license:
       enable: true
       allow_derivatives: false
