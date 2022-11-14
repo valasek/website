@@ -46,11 +46,11 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
-      link: 'https://twitter.com/valasek'
-    - icon: github
+      link: https://www.linkedin.com/in/stanislavvalasek/
+    - icon: facebook
       icon_pack: fab
-      name: GitHub
-      link: 'https://www.github.com/valasek'
+      name: Facebook
+      link: https://www.facebook.com/stanislav.valasek
 
 design:
   columns: '2'
