@@ -20,6 +20,8 @@ Chceš se účastnit? [Napiš nebo zavolej mi](/#contact).
 
 Již tradičně se scházejí muži v kruhu ...
 
+![](img.jpg)
+
 ... muži, jenž chtějí poznat nejen sebe sama, ale i sdílet s ostatními své příběhy, těžkosti, úspěchy nebo třeba jen naslouchat a zažít sílu mužského společenství… 
 
 Já sám se takhle setkávám měsíčně již 5-tým rokem a rozhodl jsem se vytvořit prostor pro setkávání mužů i z Uhříněvsi a okolí.
@@ -32,3 +34,5 @@ Jaké otázky se v kruhu mohou objevit?
 * O co jsem se mohl opřít (vně a uvnitř sebe)?
 * Kam jsem se jako člověk, muž, partner, otec, lídr firmy, lídr školy, učitel, manažer, kolega, přítel, občan naší společnosti posunul?
 * Na čem budu dál v životě stavět a čemu se díky tomu všemu otevírám do budoucna?
+
+![](DSCF8461.jpg)

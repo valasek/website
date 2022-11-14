@@ -6,7 +6,7 @@ title: Stanislav Valášek
 superuser: true
 
 # Role/position/tagline
-role: CTO
+role: Průvodce a CTO
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,11 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Vedení lidí
+  - Průvodcování týmů i jednotlivců, těla i duše
+  - Reorganizace, stavění i nastavení týmů
+  - Osobní leadership
   - Technologie a vývoj SW
-  - Lezení, feratty
-  - Akvaristika
-
 
 # Education to show in About widget
 education:
@@ -33,6 +32,12 @@ education:
     - course: CTO Leadership Foundation
       institution: CTO Academy
       year: 2022
+    - course: Kyvadlo
+      institution: Marek Bohunický
+      year: 202O
+    - course: Body Inteligence
+      institution: Marek Bohunický
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,6 +74,8 @@ highlight_name: true
 
 ---
 
-Stanislav Valášek je v současnoti CTO ve společnosti [uLékaře.cz](www.ulekare.cz). Využívá své kvality "vyžadování jasnosti" a zkušenosti z managementu k tomu, aby tvořil efektivní vývojový a IT tým, řídí přesun řešení do Amazon AWS.
+Stanislav Valášek je v průvodcem lidí, skupin v rámci firem a současně pracuje jako CTO ve společnosti [uLékaře.cz](www.ulekare.cz).
 
-Ve volném čase se účastní a vede mužské kruhy.
+Využívá své kvality "vyžadování jasnosti" a mnohaleté zkušenosti z managementu k tomu, aby stavěl na zelené louce nebo reorganizoval stávající vývojové, IT, supportní nebo dokumentační týmy v rámci produktových nebo projektových IT společností a pak je předával manažerům.
+
+Ve volném čase se účastní a vede mužské kruhy, vychovává dvě děti a stará se o 180l akvárium.

@@ -14,17 +14,17 @@ main:
   #   url: '#posts'
   #   weight: 20
   #   parent: Posts
-  - name: Vedení
-    url: 'management'
+  - name: Průvodce těla
+    url: 'pruvodce-tela'
     weight: 30
-  - name: Hry
+  - name: Hry pro děti
     url: 'hry'
     weight: 40
   - name: Mužské kruhy
     url: 'muzske-kruhy'
     weight: 50
   - name: Kontakt
-    url: '#about'
+    url: '#contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
