@@ -61,7 +61,7 @@ Ešte jedna poznámka: asi najjednoduchší spôsob vytvorenia RSS súboru je sk
 Pridanie RSS kanálov
 Tak a konečne sa na tento web dostal výdobytok internetu - RSS kanál.
 Agreguje zmeny na stránke a môj blog.
-http://www.valasek.biz/rss.php
+https://www.valasek.biz/rss.php
 ```
 
 
@@ -83,7 +83,7 @@ Následne pridáme odkaz, začínajúci značkou `<link>`, nasledovaný odkazom 
 ```html
 <title>Pridanie RSS kanálov</title>
 <description>Tak a konečne sa na tento web dostal výdobytok internetu - RSS kanál. Agreguje zmeny na stránke a môj blog.</description>
-<link>http://www.valasek.biz/rss.php</link>
+<link>https://www.valasek.biz/rss.php</link>
 ``` 
 
 Tým sme zadali všetky informácie potrebné pre pridanie jednej položky. Každá položka v súbore sa začína značkou `<item>` a ukončuje značkou `</item>`. Keď pridáme ešte jednu položku, dostaneme nasledovný kód:
@@ -92,7 +92,7 @@ Tým sme zadali všetky informácie potrebné pre pridanie jednej položky. Kaž
 <item>
   <title>Pridanie RSS kanálov</title>
   <description>Tak a konečne sa na tento web dostal výdobytok internetu - RSS kanál. Agreguje zmeny na stránke a môj blog.</description>
-  <link>http://www.valasek.biz/rss.php</link>
+  <link>https://www.valasek.biz/rss.php</link>
 </item>
 ```
 
@@ -105,12 +105,12 @@ A ako niekto čítajúc RSS zistí, že informácie sa vzťahujú k nášmu RSS 
   <item>
     <title>Pridanie RSS kanálov</title>
     <description>Tak a konečne sa na tento web dostal výdobytok internetu - RSS kanál. Agreguje zmeny na stránke a môj blog.</description>
-    <link>http://www.valasek.biz/rss.php</link>
+    <link>https://www.valasek.biz/rss.php</link>
   </item>
   <item>
     <title>Aktualizovaný email formulár</title>
     <description>Pôvodný email skript neodosielal správne email adresu odosielateľa a preto som mu nemohol odpovedať :-(. Aktuálna verzia na webe je opravená.</description>
-    <link>http://www.valasek.biz/email.php</link>
+    <link>https://www.valasek.biz/email.php</link>
   </item>
 ```
 
@@ -128,12 +128,12 @@ A na koniec vložíme uzatváraciu značku kanálu a RSS v tomto poradí. Teda:T
     <item>
       <title>Pridanie RSS kanálov</title>
       <description>Tak a konečne sa na tento web dostal výdobytok internetu - RSS kanál. Agreguje zmeny na stránke a môj blog.</description>
-      <link>http://www.valasek.biz/rss.php</link>
+      <link>https://www.valasek.biz/rss.php</link>
     </item>
     <item>
       <title>Aktualizovaný email formulár</title>
       <description>Pôvodný email skript neodosielal správne email adresu odosielateľa a preto som mu nemohol odpovedať :-(. Aktuálna verzia na webe je opravená.</description>
-      <link>http://www.valasek.biz/email.php</link>
+      <link>https://www.valasek.biz/email.php</link>
     </item>
   </channel>
 </rss>

@@ -67,7 +67,7 @@ Nahlásené chyby v slobodných programoch.
 
 #### Preklady programov do slovenčiny
 
-Nižšie je zoznam programov, ktoré som prekladal do slovenčiny. Ak chcete začať prekladať slobodný softvér, prečítajte si krátky článok [Ako na preklad slobodných programov](http://www.valasek.biz/oss-preklad.php).
+Nižšie je zoznam programov, ktoré som prekladal do slovenčiny. Ak chcete začať prekladať slobodný softvér, prečítajte si krátky článok [Ako na preklad slobodných programov](https://www.valasek.biz/oss-preklad.php).
 
 *   [Preklad](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=279559 "Preklad") a aktualizácie ([#1](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=309824 "Aktualizácia 1"), [#2](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=338527 "Aktualizácia 2")) programu [Aptitude](http://aptitude.sourceforge.net/ "Aptitude") - konzolového rozhrania na jednoduchú inštaláciu a odoberanie programov z Debian GNU/Linuxu.
 *   [Preklad](http://dev.openwengo.com/trac/openwengo/trac.cgi/ticket/122) rozhrania programu [OpenWengo](http://openwengo.com/). Ide o OSS alternatívu rozšíreného programu [Skype](http://www.skype.com/)

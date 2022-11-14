@@ -67,7 +67,7 @@ V ďalšom postupe predpokladám, že je MS Windows nainštalovaný na jednej s�
 
 Občas je užitočné vytvoriť ešte jednu partíciu, slúžiacu na prenos súborov medzi GNU/Linuxom a MS Windowsom. Aby bola viditeľná aj z MS Windowsu, nastavíme jej typ FAT32\. Úplne však postačuje USB kľúčenka, prípadne prepisovateľné CD/DVD. Na schéme nižšie je za MS Windows súborovým systémum NTFS os veľkosťou 31,5 GB zaradená partícia typu ext3 s veľkosťou 8 GB a swap s veľkosťou 500 MB.
 
-![](http://www.valasek.biz/_/rsrc/1219608396041/na-stiahnutie/DiskPartitions.png)
+![](https://www.valasek.biz/_/rsrc/1219608396041/na-stiahnutie/DiskPartitions.png)
 
 Na vytvorenie jednotlivých oddielov disku sa perfektne hodia live CD typu GParted live CD obsahujúci nástroj GParted alebo Knoppix obsahujúci QTParted. V MS Windowse je možné použiť komerčný nástroj Partition Magic.
 
@@ -114,8 +114,8 @@ Správnosť úpravy súboru si môžete overiť nasledovne:
 2.  Na karte **Spresnenie** kliknite na tlačidlo **Nastavenie** v poli **Spúšťanie a obnovovanie**.
 3.  V poli **Spustenie systému** kliknite na tlačidlo **Upraviť** - otvorí sa okno štartu a obnovy systému, zobrazené nižšie.
 
-![](http://www.valasek.biz/_/rsrc/1219608396126/na-stiahnutie/SystemProperties.png)
-![](http://www.valasek.biz/_/rsrc/1219608396234/na-stiahnutie/StartupAndRecovery.png)
+![](https://www.valasek.biz/_/rsrc/1219608396126/na-stiahnutie/SystemProperties.png)
+![](https://www.valasek.biz/_/rsrc/1219608396234/na-stiahnutie/StartupAndRecovery.png)
 
 Áno, skutočne to je MS Windows ale práve som používal túto tému a preto dialógy vypadajú ako z MAC OS.
 

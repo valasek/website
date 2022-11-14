@@ -72,7 +72,7 @@ Prácu prekladateľa dokážu výrazne zjednodušiť grafické nástroje umožň
 
 Ako ukážkový program som vybral kalkulačku [Qalculate](http://qalculate.sourceforge.net/). Program môžete stiahnuť priamo zo stránky, ale je veľká šanca že už bude súčasťou Vašej distribúcie. V mojej aktuálnej distribúcií Ubuntu Dapper už bola distribuovaná verzia 0.9-2-1\. Inštalácia bola tým pádom relatívne jednoduchá: `sudo aptitude install qalculate-gtk` (Pre rmp balík: `rpm -U qalculate-gtk.rpm`). Po prvom spustení program vypadá nasledovne:
 
-![](http://www.valasek.biz/_/rsrc/1216843315017/na-stiahnutie/Qalculate.png)
+![](https://www.valasek.biz/_/rsrc/1216843315017/na-stiahnutie/Qalculate.png)
 
 Napriek tomu, že mám nastavené slovenské lokálne prostredie, program komunikuje anglicky :-)
 
@@ -86,11 +86,11 @@ V ďalšom texte bude paralelne ukázaný postup najčastejšie vykonávaných �
 
 Pri prvom otvorení prázdnej jazykovej šablóny nás GTranslátor vyzve na doplnenie dát o preklade, ktoré doplníme nasledovne:
 
-![](http://www.valasek.biz/_/rsrc/1219596709426/na-stiahnutie/gtranslator-header.png)
+![](https://www.valasek.biz/_/rsrc/1219596709426/na-stiahnutie/gtranslator-header.png)
 
 Aby sme vyskúšali ako "hladko" funguje prekladanie a test výsledku, preložíme si texty priamo v úvodnom dialógu: "Keypad", "History" a text tooltipu "Convert units in result". Následne vygenerujeme výslednú - binárnu verziu prekladu. Preklad jedného z textov a generovanie binárneho súboru je znázornené tu:
 
-![](http://www.valasek.biz/_/rsrc/1216843314914/na-stiahnutie/gtranslator.png)
+![](https://www.valasek.biz/_/rsrc/1216843314914/na-stiahnutie/gtranslator.png)
 
 A čo s novo vygenerovaným súborom qalculate-gtk.mo? Stačí ho nakopírovať do adresára pre binárne verzie správ. Na Debian GNU/Linux systémoch je to adresár: `/usr/share/locale/xx/LC_MESSAGES/`, kde xx je kód jazyka, pre slovenčinu "sk" a češtinu "cs".
 
@@ -103,13 +103,13 @@ stanislav@nb-valasek:~$ qalculate-gtk #test výsledku`
 
 A výsledok je nasledujúci:
 
-![](http://www.valasek.biz/_/rsrc/1216843317769/na-stiahnutie/Qalculate-prvy-preklad.png)
+![](https://www.valasek.biz/_/rsrc/1216843317769/na-stiahnutie/Qalculate-prvy-preklad.png)
 
 Je veľmi vhodné preklad overovať, či už prebežne, ak nie sme si istý správnym preložením konkrétnej hlášky, alebo až na konci prekladu, kde je overenie výsledného prekladu nutnosťou.
 
 Preklad jednej správy v programe KBabel je znázornený na obrazovke nižšie:
 
-![](http://www.valasek.biz/_/rsrc/1216843315007/na-stiahnutie/KBabel.png)
+![](https://www.valasek.biz/_/rsrc/1216843315007/na-stiahnutie/KBabel.png)
 
 U programu KBabel som nezistil, ako sa v ňom generuje výsledný binárny súbor, mám podozrenie, že to nepodporuje. Binárny preklad však jednoducho získame zo súboru `sk.po` pomocou príkazu: `stano@nb-valasek:/qalculate-gtk-0.9.4/po$ msgfmt -v -o ./qalculate-gtk.mo ./sk.po`
 
@@ -195,11 +195,11 @@ Kompletný preklad hlavičiek:
 
 Aktualizáciu týchto hlavičiek dokážu programy GTranslátor i KBabel veľmi pohodlne upraviť podľa vami zadaných dát. V GTranslátore ich zadávame v nastaveniach:
 
-![](http://www.valasek.biz/_/rsrc/1216843314958/na-stiahnutie/gtranslator-configuration.png)
+![](https://www.valasek.biz/_/rsrc/1216843314958/na-stiahnutie/gtranslator-configuration.png)
 
 KBabel nás k nastaveniu vyzve pri prvom spustení a je možná ich neskoršia úprava.
 
-![](http://www.valasek.biz/_/rsrc/1216843315004/na-stiahnutie/KBabel-configuration.png)
+![](https://www.valasek.biz/_/rsrc/1216843315004/na-stiahnutie/KBabel-configuration.png)
 
 Pri uložení sa hlavička po súboru automaticky zaktualizuje zadanými údajmi o prekladateľovi a pri každej aktualizácií prekladu v programe GTranslátor alebo KBabel sa automaticky aktualizuje dátum poslednej modifikácie.
 
@@ -237,7 +237,7 @@ Následne spustíme už známe príkazy na vygenerovanie prekladu a spustíme pr
 
 A výsledok:
 
-![](http://www.valasek.biz/_/rsrc/1216843317769/na-stiahnutie/Qalculate-prvy-preklad.png)
+![](https://www.valasek.biz/_/rsrc/1216843317769/na-stiahnutie/Qalculate-prvy-preklad.png)
 
 ### Špeciality prekladu
 
@@ -255,7 +255,7 @@ Počas prekladania môžete naraziť na špeciálne formátovanie `msgstr` reťa
 
 A výsledok:
 
-![](http://www.valasek.biz/_/rsrc/1216843317750/na-stiahnutie/Qalculate-menu-pomocnik.png)
+![](https://www.valasek.biz/_/rsrc/1216843317750/na-stiahnutie/Qalculate-menu-pomocnik.png)
 
 Na nasledujúcom texte je možné ukázať dve veci:
 
