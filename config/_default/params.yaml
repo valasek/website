@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Osobní stránky, Stanislav Valášek.'
+    description: 'Osobní stránky, Stanislav Valášek'
     twitter: 'valasek'
   analytics:
     google_analytics: ''
@@ -44,9 +44,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Stanislav Valášek.'
+    notice: '© {year}, Stanislav Valášek'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

@@ -34,7 +34,7 @@ education:
       year: 2022
     - course: Kyvadlo ako kompas v živote
       institution: Marek Bohunický
-      year: 20219
+      year: 2019
     - course: Body Intelligence
       institution: Marek Bohunický
       year: 2018
@@ -47,15 +47,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/valasek
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/valasek
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/stanislavvalasek/
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/stanislav.valasek
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/valasek
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

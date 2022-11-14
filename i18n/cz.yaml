@@ -151,4 +151,4 @@
 - id: cookie_learn
   translation: Zjistit více
 - id: published_with
-  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  translation: Publikováno pomocí {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
