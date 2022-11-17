@@ -58,7 +58,7 @@ Minimální počet účastníků 2, maximálně 8 osob.
 {{< bootstrap-table "table table-striped table-bordered table-responsive" >}}
 | Sezóna | Typ výstupu | Typ ubytování | Volné termíny |
 |--|--|--|--|
-| Zima<br/>2022 / 2023 | skiapl<br/>sněžnice | Winterraum<br/>zimní místnost v chatě | listopad: 15-18.12<br/>leden: 5-8.1, 19-22.1<br/>únor: 3-5.2, 17-19.2<br/>březen: 3-5.3, 17-19.3<br/>duben: 31.3-2.4, 14-16.4, 28-30.4
+| Zima<br/>2022 / 2023 | skiapl<br/>sněžnice | Winterraum<br/>zimní místnost v chatě | prosinec: 15-18.12<br/>leden: 5-8.1, 19-22.1<br/>únor: 3-5.2, 17-19.2<br/>březen: 3-5.3, 17-19.3<br/>duben: 31.3-2.4, 14-16.4, 28-30.4
 | Léto 2023 | Turistika<br/>ferraty<br/>vícedélkové lezení | Společná nebo<br/>samostatná<br/>izba na chatě | květen: 12-14.5, 26-28.5<br/>červen: 9-11.6, 23-25.6<br/>zaří: 29.9-1.10<br/>říjen: 13-15.10, 27-29.10 |
 {{< /bootstrap-table >}}
 

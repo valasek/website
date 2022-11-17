@@ -19,9 +19,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Průvodcování týmů i jednotlivců, těla i duše
-  - Reorganizace, stavění i nastavení týmů
+  - Reorganizace i budování týmů
   - Osobní leadership
-  - Technologie a vývoj SW
+  - Technologie, způsoby vývoje SW
 
 # Education to show in About widget
 education:
@@ -74,8 +74,8 @@ highlight_name: true
 
 ---
 
-Stanislav Valášek je v průvodcem lidí, skupin v rámci firem a současně pracuje jako CTO ve společnosti [uLékaře.cz](www.ulekare.cz).
+Stanislav Valášek je v [průvodcem lidí](pruvodce-tela), týmů v rámci firem a současně pracuje jako CTO ve společnosti [uLékaře.cz](https://app.ulekare.cz/pro-firmy).
 
 Využívá své kvality "vyžadování jasnosti" a mnohaleté zkušenosti z managementu k tomu, aby stavěl na zelené louce nebo reorganizoval stávající vývojové, IT, supportní nebo dokumentační týmy v rámci produktových nebo projektových IT společností a pak je předával manažerům.
 
-Ve volném čase se účastní a vede mužské kruhy, vychovává dvě děti a stará se o 180l akvárium.
+Ve volném čase se účastní a vede [mužské kruhy](muzske-kruhy), vychovává dvě děti a stará se o 180l akvárium.
