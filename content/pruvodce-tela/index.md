@@ -40,6 +40,12 @@ Minimální počet účastníků 2, maximálně 8 osob.
 
 ---
 
+> Se Stanislavem jsem podnikla cestu na Grosser Priel. Byla to moje vůbec první vysokohorská zkušenost a myslím, že jsem nemohla být v lepších rukou. Celá cesta byla neuvěřitelně silný emoční zážitek. Překonala jsem samu sebe a opět se trochu více poznala. Stanislav skvěle zvládá jakoukoliv situaci, a je oporou a skutečným parťákem/průvodcem. Doporučuji jak začátečníkům, tak zkušeným „horalům“.
+
+[Nikol Žárská](https://www.linkedin.com/in/nikolzarska/)
+
+---
+
 **Osobně mohu doporučit následující místa**
 
 {{< bootstrap-table "table table-striped table-bordered table-responsive" >}}

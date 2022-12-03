@@ -6,7 +6,7 @@ title: Stanislav Valášek
 superuser: true
 
 # Role/position/tagline
-role: Průvodce a CTO
+role: CTO a průvodce
 
 # Organizations/Affiliations to show in About widget
 organizations:
