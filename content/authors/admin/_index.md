@@ -74,8 +74,8 @@ highlight_name: true
 
 ---
 
-Stanislav Valášek je v [průvodcem lidí](pruvodce-tela), týmů v rámci firem a současně pracuje jako CTO ve společnosti [uLékaře.cz](https://app.ulekare.cz/pro-firmy).
+Stanislav Valášek je CTO ve společnosti [uLékaře.cz](https://app.ulekare.cz/pro-firmy) a [průvodcem lidí](pruvodce-tela) a týmů v rámci firem.
 
-Využívá své kvality "vyžadování jasnosti" a mnohaleté zkušenosti z managementu k tomu, aby stavěl na zelené louce nebo reorganizoval stávající vývojové, IT, supportní nebo dokumentační týmy v rámci produktových nebo projektových IT společností a pak je předával manažerům.
+Využívá své kvality "vyžadování jasnosti" a mnohaleté zkušenosti z managementu k tomu, aby stavěl na zelené louce nebo reorganizoval stávající vývojové, IT, supportní nebo dokumentační týmy v rámci produktových nebo projektových IT společností.
 
 Ve volném čase se účastní a vede [mužské kruhy](muzske-kruhy), vychovává dvě děti a stará se o 180l akvárium.
