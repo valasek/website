@@ -6,6 +6,8 @@ design:
   columns: "1"
 ---
 
+![](fail-to-success.jpg)
+
 {{% callout note %}}
 Nabízím Ti otázky na tělo a jestli si dokážeš pojmenovat konkrétní problém a hledáš nové pohledy [napiš](/#contact).
 
@@ -16,9 +18,7 @@ Nepiš, jestli chceš nástroje jak změnit jiné, na to najdeš spoustu jiných
 Tak jestli máš konkrétní problém, chuť nahlédnout do sebe a jsi ochoten sobě věnovat svůj čas, [napiš nebo zavolej mi](/#contact) a společně se rozhodneme, jestli budeme pokračovat nebo ne.
 {{% /callout %}}
 
-![](fail-to-success.jpg)
-
-Proč to píši?
+Proč to nabízím?
 
 A věř, že to pro mně není lehké se takhle vyjevit a přijmout i to, že to je možná slepá cesta.
 

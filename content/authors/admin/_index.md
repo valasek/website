@@ -74,7 +74,7 @@ highlight_name: true
 
 ---
 
-Stanislav Valášek je CTO ve společnosti [uLékaře.cz](https://app.ulekare.cz/pro-firmy) a [průvodcem lidí](pruvodce-tela) a týmů v rámci firem.
+Stanislav Valášek je CTO ve společnosti [uLékaře.cz](https://app.ulekare.cz/pro-firmy), [koučem a průvodcem](koucing) jednotlivců a týmů v rámci firem. Ve volném čase dělá [průvodce po horách](pruvodce-tela).
 
 Využívá své kvality "vyžadování jasnosti" a mnohaleté zkušenosti z managementu k tomu, aby stavěl na zelené louce nebo reorganizoval stávající vývojové, IT, supportní nebo dokumentační týmy v rámci produktových nebo projektových IT společností.
 
