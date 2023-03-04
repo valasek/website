@@ -1,6 +1,6 @@
 ---
 title: Tréning malé násobilky
-subtitle: Vyrobené pre moju dcéru Julianku na trénovanie malej násobilky
+subtitle: Vyrobené pre moju dcéru Julianku na trénovanie malej násobilky. Odkaz na [zdrojový kód](https://github.com/valasek/multiplication).
 
 # Summary for listings and search engines
 summary: Vyrobené pre moju dcéru Julianku na trénovanie malej násobilky
@@ -20,7 +20,7 @@ featured: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/4wF66_KWJxA)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/0EhFkzIinlk)'
   focal_point: ''
   placement: 2
   preview_only: false
