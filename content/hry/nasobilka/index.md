@@ -29,4 +29,4 @@ categories:
   - Hry
 ---
 
-<iframe src="/multiplication/index.html" frameborder="0" width="100%" height="1000"></iframe>
+Procvičování je dostupné na adrese: https://learn-multiplication.netlify.app/
