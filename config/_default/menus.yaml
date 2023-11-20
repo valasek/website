@@ -14,7 +14,7 @@ main:
   #   url: '#posts'
   #   weight: 20
   #   parent: Posts
-  - name: Koučing
+  - name: Osobní a firemní koučing
     url: 'koucing'
     weight: 30
   - name: Průvodce těla

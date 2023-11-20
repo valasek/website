@@ -6,7 +6,7 @@ title: Stanislav Valášek
 superuser: true
 
 # Role/position/tagline
-role: CTO a průvodce
+role: Kouč, mentor, osobní průvodce a bývalý CTO
 
 # Organizations/Affiliations to show in About widget
 organizations:

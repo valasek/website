@@ -1,5 +1,5 @@
 ---
-title: Koučing
+title: Osobní a firemní koučing
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -8,28 +8,39 @@ design:
 
 ![](fail-to-success.jpg)
 
+---
+
+> Mám za sebou první setkání se Stanislavem, kdy jsme probrali aktuální stav fungování mého pracovního týmu, které bych rád posunul na další úroveň.
+> 
+> Hned z této první schůzky si odnáším několik "aha momentů", na co se zaměřit, co změnit, abychom jako tým fungovali lépe.
+> 
+> Těším se na pokračování a další setkání již s celým týmem a Stanislavem co by průvodcem tou změnou. Díky!🙏👌
+
+[RNDr. Ondřej Vaněk, Ph.D., Group leader ](https://web.natur.cuni.cz/biochem/structimmuno/cv-ondrej-vanek/)
+
+---
+
 {{% callout note %}}
-Nabízím Ti otázky na tělo a jestli si dokážeš pojmenovat konkrétní problém a hledáš nové pohledy [napiš](/#contact).
+Nabízím Tobě nebo tvému týmu otázky na tělo, pomoc ze společným pojmenováních prvních kroků k dosažení možného potenciálu. Jestli si dokážeš pojmenovat konkrétní výzvu nebo problém a hledáš nové pohledy [napiš](/#contact), nebo si přímo [rezervuj 30 minut zdarma](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM).
 
-Rozhodl jsem se poskytnout pár koučovacích lekcí za referenci. Mohu ráno do 10h nebo odpoledne po 17h, případně přes oběd a v pátek kdykoliv.
+Nepiš, jestli chceš nástroje jak změnit jiné lidi, tyto služby neposkytuji. Piš, jestli máš chuť změnit sám sebe nebo se naučit další manažerské nástroje.
 
-Nepiš, jestli chceš nástroje jak změnit jiné, na to najdeš spoustu jiných lidí. Piš, jestli máš chuť změnit sám sebe.
-
-Tak jestli máš konkrétní problém, chuť nahlédnout do sebe a jsi ochoten sobě věnovat svůj čas, [napiš nebo zavolej mi](/#contact) a společně se rozhodneme, jestli budeme pokračovat nebo ne.
+Takže, jestli máš konkrétní problém, chuť nahlédnout do sebe a jsi ochoten sobě věnovat svůj čas, [rezervuj 30 minut zdarma](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM) a společně se rozhodneme, jestli budeme pokračovat nebo ne.
 {{% /callout %}}
 
-Proč to nabízím?
+## Proč?
 
-A věř, že to pro mně není lehké se takhle vyjevit a přijmout i to, že to je možná slepá cesta.
+Protože mám 10ky let zkušeností s vedením týmu v roli manažera i team leadera. Jsem nadšen, že mohu využívat mé zkušenosti z posledních 5ti let osobního rozvoje i 15ti let manažerské praxe v IT oboru a baví to obě strany.
 
-Ale nastal čas začít postupně vylézat ze své ulity. Objevovat nové možnosti a proč ne v té oblastí, kde se cítím být naplněn, šťastný a spokojen.
+Proč by jsi to zkusit neměl?
+- Na kouče nemám peníze.
+- Je to ztráta času.
+- I tak jsem já odpovědný ta to, co udělám a na věci si přijdu sám.
 
-Je to cílová stanice? Nevím. Uživí mě to? Možná, ale to teď není to důležité.
+Když jsem v roli kouče nebo mentora svítí mi u toho oči. Baví mě vidět reakce klienta a vnímat první reakce. Mé tělo u toho vrní spokojeností a mám chuť v tom pokračovat.
 
-Ale proč to nezkusit. Kdo nezkusí, neví :-) Kam mně tahle cesta zavede nevím, ale již teď se na ni těším.
+Žačni teď -[rezervuj 30 minut zdarma](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM).
 
-Nedávno jsem byl prvně v roli kouče a svítili mi u toho oči. Bavilo mě to a jak jsem sepisoval zápis pro klienta, četl jeho první reakce, moje tělo vrnělo spokojeností a mám chuť v tom pokračovat.
+A jako bonus máš ke stažení eBook [Manažerské instinkty Přírodní moudrost pro nové lídry.pdf](Manažerské_instinkty-Přírodní_moudrost_pro_nové_lídry.pdf).
 
-Jsem nadšen, že mohu využít zkušenosti z posledních 5ti let osobního rozvoje i 15ti let manažerské praxe v IT oboru a baví to obě strany.
-
-A jenom aby bylo jasno. Svou práci v uLékaře.cz miluji a nemám ambici ji měnit ani opouštět. Jsem odpovědný za tým 13ti lidí a naše společné výsledky a to mi dává neuvěřitelný pocit ukotvení že jenom nekecám ale i v praxi žiji to, co říkám.
+*eBook vznikl za pomocí ChatGPT a DALL·E*
