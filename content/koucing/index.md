@@ -1,5 +1,5 @@
 ---
-title: Osobní a firemní koučing
+title: Manažerské a osobní konzultace
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
